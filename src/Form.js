@@ -10,7 +10,7 @@ function Form() {
       };
   return (
     <>
-      <h1>Fill out your info or else</h1>
+      <h1>Fill out your info here</h1>
       <form onSubmit={(e) => onSubmit(e)}>
         <input 
             type='text' 
